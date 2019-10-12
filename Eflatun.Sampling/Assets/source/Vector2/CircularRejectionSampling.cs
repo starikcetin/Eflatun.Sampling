@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Eflatun.RandomUtils;
 
 namespace Eflatun.Sampling.Vector2
 {
