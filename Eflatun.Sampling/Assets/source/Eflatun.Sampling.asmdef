@@ -2,7 +2,8 @@
     "name": "Eflatun.Sampling",
     "references": [
         "GUID:29c68639ab458bf478f9fe70c1c2799c",
-        "GUID:dabf6926490fb824996d541c0435a76a"
+        "GUID:dabf6926490fb824996d541c0435a76a",
+        "GUID:42c2804766596fd4383f2d484efd3615"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
