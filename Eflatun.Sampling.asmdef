@@ -1,3 +1,15 @@
-﻿{
-	"name": "Eflatun.Sampling"
+{
+    "name": "Eflatun.Sampling",
+    "references": [
+        "GUID:29c68639ab458bf478f9fe70c1c2799c",
+        "GUID:dabf6926490fb824996d541c0435a76a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
 }

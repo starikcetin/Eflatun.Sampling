@@ -1,9 +1,12 @@
 {
     "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
-    "dependencies": {},
+    "dependencies": {    
+		"com.eflatun.common": "https://github.com/starikcetin/Eflatun.Common.git#0.0.1",
+		"com.eflatun.randomutils": "https://github.com/starikcetin/Eflatun.RandomUtils.git#0.0.2"
+	},
     "description": "Sampling utilities for Unity.",
     "displayName": "Eflatun.Sampling",
     "license": "MIT",
     "name": "com.eflatun.sampling",
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
