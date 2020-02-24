@@ -1,9 +1,9 @@
 {
   "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
   "dependencies": {
-    "com.eflatun.common": "https://github.com/starikcetin/Eflatun.Common.git#0.0.2",
-    "com.eflatun.randomutils": "https://github.com/starikcetin/Eflatun.RandomUtils.git#0.0.4",
-    "com.eflatun.calculation": "https://github.com/starikcetin/Eflatun.Calculation.git#0.0.3"
+    "com.eflatun.common": "0.0.4",
+    "com.eflatun.randomutils": "0.1.1",
+    "com.eflatun.calculation": "0.0.5"
   },
   "description": "Sampling utilities for Unity.",
   "displayName": "Eflatun.Sampling",
