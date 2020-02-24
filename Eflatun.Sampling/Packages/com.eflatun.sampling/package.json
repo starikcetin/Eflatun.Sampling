@@ -1,14 +1,14 @@
 {
-  "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
-  "dependencies": {
-    "com.eflatun.common": "0.0.4",
-    "com.eflatun.randomutils": "0.1.1",
-    "com.eflatun.calculation": "0.0.5"
-  },
-  "description": "Sampling utilities for Unity.",
-  "displayName": "Eflatun.Sampling",
-  "license": "MIT",
-  "name": "com.eflatun.sampling",
-  "version": "0.0.4",
-  "type": "library"
+	"author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
+	"dependencies": {
+		"com.eflatun.common": "0.0.4",
+		"com.eflatun.randomutils": "0.1.1",
+		"com.eflatun.calculation": "0.0.5"
+	},
+	"description": "Sampling utilities for Unity.",
+	"displayName": "Eflatun.Sampling",
+	"license": "MIT",
+	"name": "com.eflatun.sampling",
+	"version": "0.0.5",
+	"type": "library"
 }
